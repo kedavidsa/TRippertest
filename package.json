@@ -1,0 +1,21 @@
+{
+  "name": "tripper",
+  "version": "1.0.0",
+  "description": "Rest API for TRipper app",
+  "main": "server.js",
+  "engines": {
+    "node": "4.5.0"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "mongodb": "^2.0.33",
+    "body-parser": "^1.12.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "TRipper Team",
+  "license": "ISC"
+}
